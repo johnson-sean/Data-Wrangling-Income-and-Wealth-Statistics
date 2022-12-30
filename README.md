@@ -6,7 +6,7 @@ The objective for this project is to extract data from an xlsx file with many ta
 
 ### Entire Country
 
-![](static-files/table_USA.png)
+![](static-files/table_US.png)
 
 ### State Level
 
